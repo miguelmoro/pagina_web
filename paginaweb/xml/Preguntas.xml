@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Preguntas.xslt"?>
+
+<documento>
+	<cuestion num="1">
+		<pregunta>Hola XML ¿estás aquí?</pregunta>
+		<respuesta res="correcta">XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+	</cuestion>
+	<cuestion num="2">
+		<pregunta>Hola XML ¿estás aquí?</pregunta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta res="correcta">XML es el formato de archivo del futuro! y ya presente</respuesta>
+	</cuestion>
+	<cuestion num="3">
+		<pregunta>Hola XML ¿estás aquí?</pregunta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta res="correcta">XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+	</cuestion>
+	<cuestion num="4">
+		<pregunta>Hola XML ¿estás aquí?</pregunta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta res="correcta">XML es el formato de archivo del futuro! y ya presente</respuesta>
+	</cuestion>
+	<cuestion num="5">
+		<pregunta>Hola XML ¿estás aquí?</pregunta>
+		<respuesta res="correcta">XML es el formato de archivo del futuro! y ya presente</respuesta>
+		<respuesta>XML es el formato de archivo del futuro! y ya presente</respuesta>
+	</cuestion>	
+</documento>
